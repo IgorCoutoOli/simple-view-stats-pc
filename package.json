@@ -1,7 +1,7 @@
 {
   "name": "simple-view-stats-pc",
   "version": "1.0.0",
-  "description": "Obtenha insights instantâneos sobre o consumo de memória do seu PC com nosso aplicativo simples. Acesse facilmente as estatísticas da RAM em tempo real através da rota /stats, sem notificações ou distrações.",
+  "description": "Este � um simples sistema de monitoramento de RAM implementado em Node.js, que fornece estat�sticas sobre o sistema, incluindo informa��es sobre a quantidade total de RAM, RAM livre, uso da RAM, sistema operacional e arquitetura do sistema.",
   "main": "core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

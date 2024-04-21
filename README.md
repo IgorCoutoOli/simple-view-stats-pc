@@ -7,7 +7,7 @@ Este é um simples sistema de monitoramento de RAM implementado em Node.js, que f
 1. Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em https://nodejs.org/.
 
 2. Clone este repositório em seu ambiente de desenvolvimento:
-- `git clone https://github.com/seu-usuario/monitor-ram.git`
+- `git clone https://github.com/IgorCoutoOli/simple-view-stats-pc.git`
 
 3. Inicie o servidor executando o seguinte comando:
 - `node .`
