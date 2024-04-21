@@ -1,0 +1,19 @@
+{
+  "name": "simple-view-stats-pc",
+  "version": "1.0.0",
+  "description": "Obtenha insights instantâneos sobre o consumo de memória do seu PC com nosso aplicativo simples. Acesse facilmente as estatísticas da RAM em tempo real através da rota /stats, sem notificações ou distrações.",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorCoutoOli/simple-view-stats-pc.git"
+  },
+  "author": "Igor Oliveira",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/IgorCoutoOli/simple-view-stats-pc/issues"
+  },
+  "homepage": "https://github.com/IgorCoutoOli/simple-view-stats-pc#readme"
+}
